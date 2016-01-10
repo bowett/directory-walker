@@ -11,7 +11,10 @@ The utlity takes two arguments:
 This is the path to the folder you'd like to output
 
 ####--output 
-The path of the file to create 
+The path of the file to create
+
+####--withhidden
+A flag - if included the output will include hidden files and directories
 
 ####Running the utility
 ```
