@@ -20,3 +20,11 @@ A flag - if included the output will include hidden files and directories
 ```
 $ python directory-walker.py --path /some/path/on/the/computer --output /some/output/file.csv
 ```
+
+####Windows exe version
+As Windows does not come pre-installed with Python I've uploaded a Windows executable version to the dist folder. To use, download and unzip the archive. From the command prompt from within that dir you can then run...
+
+```
+> directory-walker.exe --path C:\Some\Path\On\The\Computer --output C:\some\output\file.csv
+```
+
